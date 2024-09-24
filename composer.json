@@ -1,0 +1,16 @@
+{
+    "name": "dmitrys/query-builder",
+    "description": "Test task for AI Technologies",
+    "version": "1.0",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "DmitrYs\\QueryBuilder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DmitrYs"
+        }
+    ]
+}
