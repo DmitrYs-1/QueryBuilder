@@ -3,7 +3,7 @@
 
 Для подключения к своему проекту используйте следующую команду:
 ```sh
-composer require dmitrys\query-builder
+composer require dmitrys\query-builder:dev-master
 ```
 
 ## Доступные базы данных
